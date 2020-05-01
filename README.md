@@ -12,7 +12,8 @@
 3 获取订阅的 skuid，阅读：https://docs.microsoft.com/en-us/microsoftteams/sku-reference-edu
 
 
-# 进入Azurehttps://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Web%2Fsites创建WebApp步骤图
+# 进入Azure创建WebApp步骤图
+# https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Web%2Fsites
 ![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/001.png)
 ![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/002.png)
 ![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/003.png)
